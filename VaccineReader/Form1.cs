@@ -35,7 +35,7 @@ namespace VaccineReader
 
             }
             string[] data = { rawDataArr[6], rawDataArr[7], rawDataArr[10] }; // assign lastName, firstName, DOB to data array
-            data = removeExtraCharacters(data); //remove extra characters at begginning of string
+            data = removeExtraCharacters(data); //remove the extra characters at begginning of string
             return data;
         }
 
