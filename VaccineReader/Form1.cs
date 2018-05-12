@@ -48,7 +48,7 @@ namespace VaccineReader
             rawData = this.dataBox.Text;
             patientData = parseLicense(rawData);
             
-            // Output an error if scan didn't work properly
+            // Output an error if the scan didn't work properly
             if (patientData[0].Equals("Error")) MessageBox.Show("Error: Scan did not return proper values");
             
             // Scan worked so display the data
