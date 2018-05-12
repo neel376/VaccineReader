@@ -1,0 +1,10 @@
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\bin\Debug\VaccineReader.exe.config
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\bin\Debug\VaccineReader.exe
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\bin\Debug\VaccineReader.pdb
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\obj\Debug\VaccineReader.csprojResolveAssemblyReference.cache
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\obj\Debug\VaccineReader.Form1.resources
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\obj\Debug\VaccineReader.Properties.Resources.resources
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\obj\Debug\VaccineReader.csproj.GenerateResource.Cache
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\obj\Debug\VaccineReader.csproj.CoreCompileInputs.cache
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\obj\Debug\VaccineReader.exe
+C:\Users\neel\source\repos\VaccineReader\VaccineReader\obj\Debug\VaccineReader.pdb
